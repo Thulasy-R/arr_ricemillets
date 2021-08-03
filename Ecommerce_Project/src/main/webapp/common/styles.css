@@ -1,0 +1,29 @@
+.cmLogin{
+	
+	background-image:url('../images/loginbg.jpg') !important;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
+}
+
+.regbg{
+	
+	background-image:url('../images/regbg.png') !important;
+	background-repeat: no-repeat;
+	background-size: 50%;
+}
+
+
+.login-logo a{
+	
+	color: white;
+	
+} 
+
+.bg-imageset{
+	
+	background-image: url(../images/green-sandbg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
